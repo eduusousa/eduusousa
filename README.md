@@ -1,5 +1,7 @@
+<div align="center">
+  <img align="center" alt="Eduardo" height="150" style="border-radius:50px;" src="https://media.giphy.com/media/qyEJoaH8FbagBxvWqA/giphy.gif">
+</div>
 <div>
-  <img align="right" alt="Eduardo" height="150" style="border-radius:50px;" src="https://media.giphy.com/media/qyEJoaH8FbagBxvWqA/giphy.gif">
   <h1 align="center">Oi Tudo bem? Eu sou o <i>Eduardo Sousa</i> 👨‍💻</h1>
   <p align="center">Tenho 17 anos e estudo Desenvolvimento de Sistemas na <b>Etec de Guainases</b>.
 </div>
