@@ -3,7 +3,7 @@
 </div>
 <div>
   <h1 align="center">Oi Tudo bem? Eu sou o <i>Eduardo Sousa</i> 👨‍💻</h1>
-  <p align="center">Tenho 17 anos e estudo Desenvolvimento de Sistemas na <b>Etec de Guainases</b>.
+  <p align="center">Tenho 17 anos e estudo Desenvolvimento de Sistemas na <b>Etec de Guaianases</b>.
 </div>
 <div align="center">
   <a href="https://www.instagram.com/_dus0usa/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
