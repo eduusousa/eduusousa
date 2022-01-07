@@ -26,5 +26,7 @@
     </div>
 </div>
 
-<br><br>
-<i> Precisamos educar nossas crianças para que elas compreendam as tecnologias do passado e inventem as tecnologias do futuro. </i>
+##
+<br>
+
+<p align="center"><i> Precisamos educar nossas crianças para que elas compreendam as tecnologias do passado e inventem as tecnologias do futuro. </i></p>
