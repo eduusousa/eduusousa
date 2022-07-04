@@ -3,9 +3,9 @@
 
   <h1 align="left">Oi, Tudo bem? Eu sou o <i>Eduardo Sousa</i> 👨‍💻</h1>
   <div align="left">
-    <p> 📌 - Atualmente estou estudando para se tornar um Desenvolvedor <b>Back-End</b>.</p>
-    <p> 💬 - Conhecimento sobre: <b>HTML, CSS, PHP e SQL</b>. </p>
-    <p> 💻 - Meios de contato: </p>
+    - 📌 Atualmente estou estudando para se tornar um Desenvolvedor <b>Back-End</b>.
+    - 💬 Conhecimento sobre: <b>HTML, CSS, PHP e SQL</b>.
+    - 💻 Meios de contato:
      <div align="left">
         <a href="https://www.instagram.com/_dus0usa/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
         <a href="https://www.linkedin.com/in/dus0usa/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
