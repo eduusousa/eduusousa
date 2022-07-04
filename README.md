@@ -1,10 +1,7 @@
 <div>
-  <h1 align="center">Oi, Tudo bem? Eu sou o <i>Eduardo Sousa</i> 👨‍💻</h1>
-</div>
+  <img align="right" alt="Eduardo" height="350em" width="350em" src="https://media.discordapp.net/attachments/965669045007437895/993305646319542313/1785d33da4e3ea5ef5c1f3818dc0b4f7-removebg-preview.png">
 
-<div>
-  <img align="right" alt="Eduardo" height="250em" width="250em" src="https://media.discordapp.net/attachments/965669045007437895/993305646319542313/1785d33da4e3ea5ef5c1f3818dc0b4f7-removebg-preview.png">
-  
+  <h1 align="left">Oi, Tudo bem? Eu sou o <i>Eduardo Sousa</i> 👨‍💻</h1>
   <div align="left">
     <p> 📌 - Atualmente estou estudando para se tornar um Desenvolvedor <b>Back-End</b>.</p>
     <p> 💬 - Conhecimento sobre: <b>HTML, CSS, PHP e SQL</b>. </p>
@@ -17,7 +14,7 @@
   </div>
 </div>
 
-<br><br>
+<br><br><br>
 
 <div align="center">
   <h1> <b> GitHub - Analytics </b> </h1>
