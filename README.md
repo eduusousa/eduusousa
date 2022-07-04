@@ -3,11 +3,11 @@
 </div>
 
 <div>
-  <img align="right" alt="Eduardo" height="150" style="border-radius:50px;" src="https://media.giphy.com/media/qyEJoaH8FbagBxvWqA/giphy.gif">
+  <img align="right" alt="Eduardo" height="150" width="150" src="https://media.discordapp.net/attachments/965669045007437895/993305646319542313/1785d33da4e3ea5ef5c1f3818dc0b4f7-removebg-preview.png">
   
   <div align="left">
-    <p> 📌 - Meu foco principal é se tornar um Desenvolvedor <b>Back-End</b>. </p>
-    <p> 📚 - Buscando sempre fazer o meu melhor. </p>
+    <p> 📌 - Atualmente estou estudando para se tornar um Desenvolvedor <b>Back-End</b>.</p>
+    <p> 💬 - Conhecimento sobre: <b>HTML, CSS, PHP e SQL</b>. </p>
     <p> 💻 - Meios de contato: </p>
      <div align="left">
         <a href="https://www.instagram.com/_dus0usa/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
