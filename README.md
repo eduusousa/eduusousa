@@ -1,5 +1,5 @@
 <div>
-  <img align="right" alt="Eduardo" height="350em" width="350em" src="https://media.discordapp.net/attachments/965669045007437895/993305646319542313/1785d33da4e3ea5ef5c1f3818dc0b4f7-removebg-preview.png">
+  <img align="right" alt="Eduardo" height="350em" width="350em" src="https://media.discordapp.net/attachments/965669045007437895/993311603732787250/1785d33da4e3ea5ef5c1f3818dc0b4f7-removebg-preview_1.png">
 
   <h1 align="left">Oi, Tudo bem? Eu sou o <i>Eduardo Sousa</i> 👨‍💻</h1>
   <div align="left">
