@@ -3,7 +3,7 @@
 </div>
 
 <div>
-  <img align="right" alt="Eduardo" height="250em" width="350em" src="https://media.discordapp.net/attachments/965669045007437895/993305646319542313/1785d33da4e3ea5ef5c1f3818dc0b4f7-removebg-preview.png">
+  <img align="right" alt="Eduardo" height="250em" width="250em" src="https://media.discordapp.net/attachments/965669045007437895/993305646319542313/1785d33da4e3ea5ef5c1f3818dc0b4f7-removebg-preview.png">
   
   <div align="left">
     <p> 📌 - Atualmente estou estudando para se tornar um Desenvolvedor <b>Back-End</b>.</p>
