@@ -4,7 +4,7 @@
   <h1 align="left">Oi, Tudo bem? Eu sou o <i>Eduardo Sousa</i> 👨‍💻</h1>
   <div align="left">
     <p> ▸ 📌 Atualmente estou estudando para me tornar um Desenvolvedor <b>Back-End</b>. </p>
-    <p> ▸ 🔭 Estudando: <b>PHP</b> e <b>JavaScript</b>. </p>
+    <p> ▸ 🔭 Estudando: <b>PHP/POO</b> e <b>JavaScript</b>. </p>
     <p> ▸ 💬 Conhecimento sobre: <b>HTML, CSS, PHP e SQL</b>. </p>
     <p> ▸ 💻 Meios de contato: </p>
      <div align="left">
