@@ -6,7 +6,7 @@
     <p> ▸ 👨‍🎓 Formado em <b>Técnico em Desenvolvimento de Sistemas</b>. </p>
     <p> ▸ 📌 Atualmente estou estudando para me tornar um Desenvolvedor <b>Back-End</b>. </p>
     <p> ▸ 🔭 Estudando: <b>PHP/POO</b> e <b>JavaScript</b>. </p>
-    <p> ▸ 💬 Conhecimento sobre: <b>HTML, CSS, PHP e SQL</b>. </p>
+    <p> ▸ 💬 Conhecimento sobre: <b>HTML, CSS, JavaScript, PHP e MySQL</b>. </p>
     <p> ▸ 💻 Meios de contato: </p>
      <div align="left">
         <a href="https://www.instagram.com/_dus0usa/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
