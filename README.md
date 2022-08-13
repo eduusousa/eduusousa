@@ -3,6 +3,7 @@
 
   <h1 align="left">Oi, Tudo bem? Eu sou o <i>Eduardo Sousa</i> 👨‍💻</h1>
   <div align="left">
+    <p> ▸ 👨‍🎓 Formado em <b>Técnico em Desenvolvimento de Sistemas</b>. </p>
     <p> ▸ 📌 Atualmente estou estudando para me tornar um Desenvolvedor <b>Back-End</b>. </p>
     <p> ▸ 🔭 Estudando: <b>PHP/POO</b> e <b>JavaScript</b>. </p>
     <p> ▸ 💬 Conhecimento sobre: <b>HTML, CSS, PHP e SQL</b>. </p>
@@ -25,6 +26,7 @@
   <img align="center" alt="mysql" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
   <img align="center" alt="java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="vscode" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+  <img align="center" alt="git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 </div>
 
 <br><br><br>
