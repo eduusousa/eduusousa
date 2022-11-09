@@ -5,7 +5,7 @@
   <div align="left">
     <p> ▸ 👨‍🎓 Formado em <b>Técnico em Desenvolvimento de Sistemas</b>. </p>
     <p> ▸ 📌 Atualmente estou estudando para me tornar um Desenvolvedor <b>Back-End</b>. </p>
-    <p> ▸ 🔭 Estudando: <b>PHP/POO</b> e <b>JavaScript</b>. </p>
+    <p> ▸ 🔭 Estudando: <b>JavaScript</b>. </p>
     <p> ▸ 💬 Conhecimento sobre: <b>HTML, CSS, PHP e MySQL</b>. </p>
     <p> ▸ 💻 Meios de contato: </p>
      <div align="left">
