@@ -1,5 +1,5 @@
 <div>
-  <img align="right" alt="Eduardo" height="250em" width="250em" src="https://media.discordapp.net/attachments/965669045007437895/993311603732787250/1785d33da4e3ea5ef5c1f3818dc0b4f7-removebg-preview_1.png">
+  <img align="right" alt="Eduardo" height="250em" width="250em" src="https://th.bing.com/th/id/R.fe4c439f3a1be55b255b19718bd01c52?rik=mFp%2bYyHDarpZgg&riu=http%3a%2f%2fbestanimations.com%2fComputers%2ffunny-computer-animated-gif-29.gif&ehk=9t3en429f6tZFspI0eGY9lxbyLoV6BszyXVqZqchDN0%3d&risl=&pid=ImgRaw&r=0">
 
   <h1 align="left">Oi, Tudo bem? Eu sou o <i>Eduardo Sousa</i> 👨‍💻</h1>
   <div align="left">
